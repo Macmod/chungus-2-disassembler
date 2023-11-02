@@ -16,7 +16,7 @@ To get the disassembly with line numbers add `-ln` or `--line-numbers`.
 
 # Notes
 
-Special thanks to the organizers of BoitaTech CTF that created a challenge that involved disassembling CHUNGUS2 and to my friends [guialvesf](https://github.com/guialvesf) and [ramonmachadoo](https://github.com/ramonmachadoo) who invited me to the event, otherwise this would probably never be written :P
+Special thanks to the organizers of [BoitaTech](https://boitatech.com.br/) CTF that created a challenge that involved disassembling CHUNGUS2 and to my friends [guialvesf](https://github.com/guialvesf) and [ramonmachadoo](https://github.com/ramonmachadoo) who invited me to the event, otherwise this would probably never be written :P
 
 # Contribute
 
